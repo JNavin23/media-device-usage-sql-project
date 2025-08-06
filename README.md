@@ -68,5 +68,3 @@ This SQL-based project investigates the shift in user preference from traditiona
 Aspiring Data Analyst | Python • SQL • Power BI
 
 ---
-
-> 💡 *This project is perfect for portfolio demonstration, SQL interview prep, and BI reporting practice.*
